@@ -1,0 +1,43 @@
+comparar facilmente entre diferentes versiones
+grabar de manera automatica los archivos y evitar que se pierda los cambios
+usar fc para comparar entre archivos
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+xq con ello se puede comparar entre dos archivo facilmente y ver las diferencias
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+xq ves las diferencias y encontrar como se hace distinto en cada uno
+para ver los errores y no cometerlos mas de una vez
+si cambiaste algo por error puedes regresar a como estaba antes y poder corregir
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros:
+no se hace innecesariamente largo
+grabo cada vez que hago un cambio logico
+manejo mis propios tiempos e ideas para grabar
+
+cons:
+se puede olvidar grabar
+podrias grabar muchas versiones
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+en git, los trabajos que realizas normalmente los archivos estan coordinados entre si, mientras que google docs cada archivo esta separado uno del otro
+git sirve mas para comparar y encontrar diferencias entre las versiones, por eso guarda todo un grupo junto
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log me permite ver todos los commits realizados en los archivos, y ver los cambios efectuados
+git diff me dice las diferencias entre los distintos archivos que se han realizado
+
+How might using version control make you more confident to make changes that could break something?
+
+ya no tengo miedo de malograr algo sin saber que he hecho, entonces es mas facil experimentar con los cambios
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+probar varias versiones de trabajos hechos anteriormente
+nuevos proyectos de apps :)
