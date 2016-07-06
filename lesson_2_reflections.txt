@@ -30,3 +30,10 @@ el resultado es que se queda un branch, y el otro se acopla y queda como histori
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+pros
+se realiza mas rapido
+se hace de manera automatica sin necesidad de hacer muchos pasos
+
+cons
+pueden haber casuisticas y tener que revisar a detalle
