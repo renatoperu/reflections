@@ -26,5 +26,7 @@ se ve graficamente como estan las versiones de los distintos archivos, asi ver u
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+el resultado es que se queda un branch, y el otro se acopla y queda como historial. se representa asi para poder saber que viene de ahi
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
