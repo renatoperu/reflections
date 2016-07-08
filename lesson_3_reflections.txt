@@ -17,7 +17,7 @@ crear una rama al arbol de creacion que hayas tenido de tus trabajos
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-Fill in your answer here
+para que no vayan generando diferencias entre los distintos branches
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
