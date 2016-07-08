@@ -6,7 +6,7 @@ cuando trabajo en equipo, para hacer una copia segura en caso algo le pase a mi 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-Fill in your answer here
+puede haber informacion que se haya llenado de manera remota que no deseas que este en tu version local sin haberla revisado antes
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
